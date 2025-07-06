@@ -63,7 +63,7 @@ stored as textfile;
 
 create table Employee
 (
-	Employee_ID int primary key auto_increment,
+	Employee_ID int,
 	Employee_surname varchar(50),
 	Employee_name varchar(50) not null,
 	Employee_patronym varchar(50)
@@ -80,7 +80,7 @@ create table Attendance
 	Event_ID int,
 	Attendance_status_ID int,
 	Employer_ID int,
-	Vitited bool
+	Vitited boolean
 )
 comment 'Attendance details'
 row format delimited
@@ -92,7 +92,7 @@ create table Employee_department
 (
 	Employee_ID int,
 	Department_ID int not null,
-	Position varchar(50),
+	Position varchar(50)
 )
 comment 'Employee-department relation table'
 row format delimited
