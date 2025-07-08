@@ -14,4 +14,11 @@
 Структура БД приведена ниже.
 ![Scheme.png](Task%202%20%28Database%29/Event%20calendar/Scheme.png)
 [Скрипт создания БД и таблиц](Task%202%20%28Database%29/Event%20calendar/Create%20database%20and%20tables.sql)
+
 [Скрипт заполнения БД данными](Task%202%20%28Database%29/Event%20calendar/Insert%20data.sql)
+
+Структура БД по схеме "Звезда":
+![Scheme.png](Task%202%20%28Database%29/Event%20calendar%20%28star%20scheme%29/Scheme.png)
+[Скрипт создания БД и таблиц](Task%202%20%28Database%29/Event%20calendar%20%28star%20scheme%29/Create%20database%20and%20tables.sql)
+
+[Скрипт заполнения БД данными](Task%202%20%28Database%29/Event%20calendar%20%28star%20scheme%29/Insert%20data.sql)
