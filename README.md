@@ -12,6 +12,10 @@
 
 ![screenshot 3.jpg](img/screenshot%203.jpg)
 
+### Эндпоинт "operations"
+
+![screenshot 4.jpg](img/screenshot%204.jpg)
+
 # Задание 2. Big Data
 
 ## Описание БД
